@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "key-board": "../../component/key-board/key-board"
+  },
+  "navigationBarTitleText": "keyboard"
+}

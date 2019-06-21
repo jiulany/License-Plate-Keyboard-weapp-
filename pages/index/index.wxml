@@ -1,0 +1,3 @@
+<!--pages/add_car/add_car.wxml-->
+  <key-board showkKeyBoard="{{openKeyBoard}}" catchchangeValue="keyBoardValue"></key-board>
+ 
